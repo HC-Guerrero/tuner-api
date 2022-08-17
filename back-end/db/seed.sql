@@ -1,4 +1,4 @@
-\c tuner_dev
+cd \c tuner_dev
 
 INSERT INTO tuner(name, artist, album, time, is_favorite) VALUES ('Blood We Spill', 'Geneburn', 'N/A', '3:18', true),
 ('Kickstart My Heart', 'Motley Crue', 'Dr. Feelgood', '5:12', true),
